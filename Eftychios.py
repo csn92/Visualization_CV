@@ -71,7 +71,7 @@ def greedy_neuron_initialisation(Y,K, tau, window):
 		D[i] = gaussian_kernel(a, tau,window,i)
 
 	for i in range(0,d):
-		m = np.median(Y([i,:])
+		m = np.median(Y([i,:]))
 		for j in range(0,T):
 			Y[i,j] = Y[i,j] - m
 

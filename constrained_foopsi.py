@@ -1,6 +1,33 @@
 #Spike inference using a constrained foopsi approach
 def constrained_foopsi(y,b,c1,g,sn,options):
 
+# Inputs:
+
+# 1. A,C,b,f using greedy initialization approach
+
+# One variable for the coordinates.
+# Another variable for the intensity values
+def compute_coms(A,window,tau):
+	(wx, wy) = window
+	for a in A:
+		for x_size in range(-wx/2,wx/2+1):
+			for y_size in range()
+			define=1
+
+
+def median_filtering(A):
+	A = scipy.ndimage.filters
+
+
+def lars(X,y,sigma):
+
+	n = len(y)
+	sigma = sigma
+	mu = np.zeros_like(y)
+	beta = np.zeros((len(X.T), ), float)
+
+# Compute center of mass for each spatial component and define search region for each pixel
+
 	# min sum(sp)
 	#subject to: sp>=0, b>=0, G*c = sp, c1>=0
 
@@ -65,21 +92,4 @@ def estimate_time_constants(y,p,sn,lags):
 
 	return g
 
-# Estimating the variance of noise
-def getSn(Y,range_ff,method):
-
-	# Estimate noise level with power spectral density method
-	L = length(Y)
-	psd_Y,ff = scipy.signal.pwelch(Y,round(L/8),[],1000,1)
-
-	ind = ff>range_ff(1)
-	ind(ff>range_ff(2))=0
-	
-	if method=="mean":
-		sn = math.sqrt(math.mean(psd_Y(ind)/2))
-	elif method=="median":
-		sn = math.sqrt(math.median(psd_Y(ind)/2))
-	elif method=="logmexp":
-		sn = math.sqrt(math.exp(math.mean(math.log(psd_Y(ind)/2))))
-
-	return sn 
+ 
