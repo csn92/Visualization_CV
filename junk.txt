@@ -1,0 +1,103 @@
+
+
+def get_window_coordinates(i,wx,size):
+	upper = i+(wx/2)
+	lower = i-(wx/2)
+
+
+	if upper>size or lower<0:
+		upper=i
+		for x in range(0, wx/2):
+			if not upper>size:
+				upper = i+x
+		lower=i
+		for y in range(-wx/2,0):
+			if not lower<0:
+				lower = i+x
+
+	xv = np.linspace(upper,lower,1)
+	return xv
+
+def get_coordinates(d):
+	global C
+	if d<C:
+		x=d
+		y=0
+	else:
+		x = (d)%C
+		y=(d+1)/C
+	# z = y%P
+
+	return x,y
+	# return x,y,z
+
+# def find_pixel(x,y,z):
+# 	return x*R+y*C+z
+def find_pixel(x,y):
+	global C
+	return x*C+y
+
+
+
+# def larse_regression(Y,sigma,T,D):
+# 	A = spams.lasso(Y, D, mode=1,lambda1=sigma*math.pow(T,0.5),pos=True)
+# 	return A
+
+# def coordinate_descent(Y,sigma,T):
+# 	C = spams.cd(Y,D,mode=2, itermax=10,lambda=sigma*math.pow(T,0.5))
+	
+	
+# def dual_ascent(Y,X,positive,noise):
+
+# 	v = G.transpose()*np.ones((T,1))
+# 	thr = sn*np.sqrt(T)
+# 	if bas_est:
+# 		b=0
+# 	if c1_est:
+# 		c1=0
+# 	f,grad = lagrangian_temporal_gradient(Ald,thr^2,y-b-c1*gd_vec,bas_est,c1_est)
+# 	c = [np.divide(G, max(G*y,0)); np.zeroes(bas_est); np.zeros(c1_est)]
+# 	ld_in=10
+# 	ld,D,flag = cvxopt.solvers.qp(f,grad,ld_in)
+# 	if flag==-2 or flag==-3:
+# 		print "Unbounded or infeasible!"
+# 	if bas_est:
+# 		b=c*(T+bas_est)
+# 	if c1_est:
+# 		c1 = c(end)
+# 	c = c[1:T]
+# 	sp=G*c
+
+# 	return c, b, c1, g, sn, sp
+# def lagrangian_temporal_gradient(Al, thr, y_raw, bas_flaf, c1_flag,):
+# 	H = [scipy.sparse.speye(T), np.ones((T, bas_flag)), gd_vec*ones((1,c1_flag));
+# 		np.ones(bas_flag,T), T*np.ones(bas_flag), np.divide((1-gd^T)/(1-gd))*np.ones(c1_flag,bas_flag);
+# 		(gd_vec*np.ones((1,c1_flag)).transpose()), np.divide((1-gd^T),(1-gd))*np.ones(c1_flag,bas_flag), np.divide((1-gd^2*T),(1-gd^2))*np.ones(c1_flag,c1_flag)]
+
+# 	Ay = [y_raw;sum(y_raw)*np.ones(bas_flag);gd_vec.transpose()*y_raw*np.ones(c1_flag)]
+
+# 	c = cvxopt.solvers.qp(2*Al(1)*H,[v;zeros(bas_flag+c1_flag,1)]-2*Al(1)*Ay,[-G,sparse(T,bas_flag+c1_flag);sparse(bas_flag+c1_flag,T),-speye(bas_flag+c1_flag)]...
+#             ,[sparse(T,1);-b_lb*ones(bas_flag);zeros(c1_flag)],[],[],[],[],c,options_qp) )
+# 	f = v.transpose()*c[1:T]
+# 	grad = [sum((c[1:T] - y_raw + c[T+bas_flag] * bas_flag + c(end) *gd_vec*c1_flag).^2) - thr]
+# 	f = f+Al(:)*grad
+# 	f=-f
+# 	grad = -grad
+
+# 	return f,grad
+
+# def G_inv_mat(x,mode,NT,gs,gd_vec,bas_flag,c1_flag):
+# 	if mode==1:
+# 		b = filter(1,[1;-gs[:]], x(1:NT)) + bas_flag*x[NT+bas_flag] + c1_flag*gd_vec*x(end)
+# 	elif mode==2:
+# 		b = [np.flipud(filter(1,[1;-gs[:]], flipud(x)));
+# 			 np.ones(bas_flag,1)*sum(x);
+# 			 np.ones((c1_flag,1))*(gd_vec.tranpose()*x)];
+
+
+ Y_res = Y_res + np.dot(A[:,ii],Cin[ii,:])
+                         ab,srt = sort(A[:,ii],reverse=True)
+                         ff = srt[1:mc];
+                         cc,LD[:,ii] = lagrangian_foopsi_temporal(Y_res[ff,:],A[ff,ii],math.power(T*P.sn(ff),2),G,LD[:,ii]);
+                        C[ii,:] = np.full(cc.trsnpose());
+                        Y_res = Y_res - np.dot(A[:,ii],cc.tranpose())
