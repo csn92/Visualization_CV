@@ -13,10 +13,10 @@ def greedyROI(Y,K,K_size, K_std,C,R,T,P):
 
 
     K_size=np.array([1,2])
-    K_size.fill(5)
+    K_size.fill(7)
 
     K_std = np.array([1,2])
-    K_std.fill(5)
+    K_std.fill(2)
 
     basis = np.zeros((R,C,K),dtype='float64')
     trace = np.zeros((T,K),dtype='float64')
@@ -26,7 +26,7 @@ def greedyROI(Y,K,K_size, K_std,C,R,T,P):
     # Calculate Margin
     K_Half = np.floor(K_size/2)
     K_size = 2*K_Half + 1
-    K_size=25
+    # K_size=1
     rho = np.zeros((R,C,T))
     print "Scanning the whole image", K_size,K_std
     # rho = scipy.ndimage.filters.gaussian_filter(Y,sigma=K_std)
@@ -57,10 +57,7 @@ def greedyROI(Y,K,K_size, K_std,C,R,T,P):
         print "Fine tuning the shape", iSig[0],iSig[1],jSig[0],jSig[1]
         dataTemp = Y[iSig[0]:iSig[1], jSig[0]:jSig[1], :]
         traceTemp = rho[i_max, j_max,:]
-        # print np.shape(traceTemp)
-        # print "datatemp and tracetemp",dataTemp, traceTemp
         coef, score = finetune2d(dataTemp,traceTemp,nIter,T)
-        # print np.shape(score),score,coef
         score.flatten()
 
         (M,N) = np.shape(coef)
@@ -68,8 +65,6 @@ def greedyROI(Y,K,K_size, K_std,C,R,T,P):
         for i in range(0,T):
             for j in range(0,M):
                 dataSig[j,:,i] = np.multiply(coef[j,:],score[j])
-        # print np.shape(score),np.shape(coef)
-        # print np.shape(dataSig)
         basis[iSig[0]:iSig[1], jSig[0]:jSig[1],k] = coef
         trace[:,k] = score.transpose()
 
@@ -87,11 +82,8 @@ def greedyROI(Y,K,K_size, K_std,C,R,T,P):
             iLag = iSig - iMod[0]
             jLag = jSig - jMod[0]
             dataTemp = np.zeros((iModLen,jModLen))
-            # print iSigLen, jSigLen, np.shape(coef)
             dataTemp[iLag[0]: iLag[1], jLag[0]:jLag[1]] = np.reshape(coef,[iSigLen, jSigLen])
-            # dataTemp1 = scipy.ndimage.filters.gaussian_filter(dataTemp,K_std)
-            dataTemp = scipy.ndimage.filters.gaussian_filter(dataTemp,K_std)
-            # dataTemp = scipy.ndimage.filters.gaussian_filter(dataTemp,sigma=K_std,truncate=K_size)
+            dataTemp = scipy.ndimage.filters.gaussian_filter(dataTemp,K_std)x
 
             (M,N) = np.shape(dataTemp)
             rhoTemp = np.empty((M,N,T))

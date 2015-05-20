@@ -2,76 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0901d1bf-a4ea-4728-a117-7658a1a0494f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Eftychios.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Utilities" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/greedy_initialisation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/greeyd.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/single_pixel_deconvolution.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spams-python/html/doc_spams010.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spams-python/spams/decomp/lsqsplx.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spams-python/spams/decomp/projsplx.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spams-python/spams/dictLearn/arch.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spatiotemporal_deconvolution.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spike_deconvolution.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/update_spatial_component.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Papers/1409.2903v1 copy.pdf" afterPath="$PROJECT_DIR$/Papers/1409.2903v1 copy.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/doc_spams.pdf" afterPath="$PROJECT_DIR$/spams-python/doc_spams.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/sphinx/objects.inv" afterPath="$PROJECT_DIR$/spams-python/sphinx/objects.inv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/python-interface.pdf" afterPath="$PROJECT_DIR$/spams-python/python-interface.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/build/temp.macosx-10.8-x86_64-2.7/spams_wrap.o" afterPath="$PROJECT_DIR$/spams-python/build/temp.macosx-10.8-x86_64-2.7/spams_wrap.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/INSTALL-package" afterPath="$PROJECT_DIR$/spams-python/INSTALL-package" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/INSTALL-windows" afterPath="$PROJECT_DIR$/spams-python/INSTALL-windows" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Larse_regression_noise.py" afterPath="$PROJECT_DIR$/Larse_regression_noise.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/PKG-INFO" afterPath="$PROJECT_DIR$/spams-python/PKG-INFO" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/Release-name" afterPath="$PROJECT_DIR$/spams-python/Release-name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Utilities.py" afterPath="$PROJECT_DIR$/Utilities.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/sphinx/_static/basic.css" afterPath="$PROJECT_DIR$/spams-python/sphinx/_static/basic.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/spams/linalg/cblas_alt_template.h" afterPath="$PROJECT_DIR$/spams-python/spams/linalg/cblas_alt_template.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/spams/decomp/decomp.h" afterPath="$PROJECT_DIR$/spams-python/spams/decomp/decomp.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/sphinx/_static/default.css" afterPath="$PROJECT_DIR$/spams-python/sphinx/_static/default.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/spams/dictLearn/dicts.h" afterPath="$PROJECT_DIR$/spams-python/spams/dictLearn/dicts.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/html/doc_spams.css" afterPath="$PROJECT_DIR$/spams-python/html/doc_spams.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/html/doc_spams.html" afterPath="$PROJECT_DIR$/spams-python/html/doc_spams.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/html/doc_spams001.html" afterPath="$PROJECT_DIR$/spams-python/html/doc_spams001.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/html/doc_spams002.html" afterPath="$PROJECT_DIR$/spams-python/html/doc_spams002.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/html/doc_spams003.html" afterPath="$PROJECT_DIR$/spams-python/html/doc_spams003.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/html/doc_spams004.html" afterPath="$PROJECT_DIR$/spams-python/html/doc_spams004.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/html/doc_spams005.html" afterPath="$PROJECT_DIR$/spams-python/html/doc_spams005.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/html/doc_spams006.html" afterPath="$PROJECT_DIR$/spams-python/html/doc_spams006.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/html/doc_spams007.html" afterPath="$PROJECT_DIR$/spams-python/html/doc_spams007.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/html/doc_spams008.html" afterPath="$PROJECT_DIR$/spams-python/html/doc_spams008.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/html/doc_spams009.html" afterPath="$PROJECT_DIR$/spams-python/html/doc_spams009.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/sphinx/_static/doctools.js" afterPath="$PROJECT_DIR$/spams-python/sphinx/_static/doctools.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/spams/prox/fista.h" afterPath="$PROJECT_DIR$/spams-python/spams/prox/fista.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/sphinx/genindex.html" afterPath="$PROJECT_DIR$/spams-python/sphinx/genindex.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/spams/prox/groups-graph.h" afterPath="$PROJECT_DIR$/spams-python/spams/prox/groups-graph.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/html/index.html" afterPath="$PROJECT_DIR$/spams-python/html/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/sphinx/index.html" afterPath="$PROJECT_DIR$/spams-python/sphinx/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/sphinx/_sources/index.txt" afterPath="$PROJECT_DIR$/spams-python/sphinx/_sources/index.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/spams/linalg/linalg.h" afterPath="$PROJECT_DIR$/spams-python/spams/linalg/linalg.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/spams/prox/mexgrouputils.h" afterPath="$PROJECT_DIR$/spams-python/spams/prox/mexgrouputils.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/spams/linalg/mexutils.h" afterPath="$PROJECT_DIR$/spams-python/spams/linalg/mexutils.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/spams/linalg/misc.h" afterPath="$PROJECT_DIR$/spams-python/spams/linalg/misc.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/spams/prox/project.h" afterPath="$PROJECT_DIR$/spams-python/spams/prox/project.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/sphinx/search.html" afterPath="$PROJECT_DIR$/spams-python/sphinx/search.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/sphinx/searchindex.js" afterPath="$PROJECT_DIR$/spams-python/sphinx/searchindex.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/sphinx/_static/searchtools.js" afterPath="$PROJECT_DIR$/spams-python/sphinx/_static/searchtools.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/setup.py" afterPath="$PROJECT_DIR$/spams-python/setup.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/sphinx/_static/sidebar.js" afterPath="$PROJECT_DIR$/spams-python/sphinx/_static/sidebar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/spams.h" afterPath="$PROJECT_DIR$/spams-python/spams.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/spams.py" afterPath="$PROJECT_DIR$/spams-python/spams.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/build/lib.macosx-10.8-x86_64-2.7/spams.py" afterPath="$PROJECT_DIR$/spams-python/build/lib.macosx-10.8-x86_64-2.7/spams.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/spams_wrap-windows.cpp" afterPath="$PROJECT_DIR$/spams-python/spams_wrap-windows.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/spams_wrap.cpp" afterPath="$PROJECT_DIR$/spams-python/spams_wrap.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/spams_wrap.py" afterPath="$PROJECT_DIR$/spams-python/spams_wrap.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/build/lib.macosx-10.8-x86_64-2.7/spams_wrap.py" afterPath="$PROJECT_DIR$/spams-python/build/lib.macosx-10.8-x86_64-2.7/spams_wrap.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/spams/prox/surrogate.h" afterPath="$PROJECT_DIR$/spams-python/spams/prox/surrogate.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/test_decomp.py" afterPath="$PROJECT_DIR$/spams-python/test_decomp.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/test_dictLearn.py" afterPath="$PROJECT_DIR$/spams-python/test_dictLearn.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/test_spams.py" afterPath="$PROJECT_DIR$/spams-python/test_spams.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/spams/linalg/utils.h" afterPath="$PROJECT_DIR$/spams-python/spams/linalg/utils.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spams-python/sphinx/_static/websupport.js" afterPath="$PROJECT_DIR$/spams-python/sphinx/_static/websupport.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/greedy_initialisation1.py" afterPath="$PROJECT_DIR$/greedy_initialisation1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatial_components.py" afterPath="$PROJECT_DIR$/spatial_components.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NMF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -98,11 +37,9 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6580938" vertical-offset="915" max-vertical-offset="1815">
-              <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#44#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.33236152" vertical-offset="906" max-vertical-offset="1935">
+              <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -110,11 +47,9 @@
       <file leaf-file-name="spatial_components.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spatial_components.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1215" max-vertical-offset="2400">
-              <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0" vertical-offset="1425" max-vertical-offset="2265">
+              <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -122,11 +57,9 @@
       <file leaf-file-name="temporal_components.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/temporal_components.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
+            <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="1245">
               <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -134,7 +67,7 @@
       <file leaf-file-name="junk.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/junk.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="735" max-vertical-offset="1620">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="1620">
               <caret line="102" column="69" selection-start-line="102" selection-start-column="69" selection-end-line="102" selection-end-column="69" />
               <folding />
             </state>
@@ -144,11 +77,9 @@
       <file leaf-file-name="greedy_initialisation1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/greedy_initialisation1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2085">
+            <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="2055">
               <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -156,16 +87,19 @@
       <file leaf-file-name="Larse_regression_noise.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Larse_regression_noise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1110" max-vertical-offset="3240">
-              <caret line="82" column="22" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0" vertical-offset="1485" max-vertical-offset="3450">
+              <caret line="114" column="0" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -173,11 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/junk.txt" />
-        <option value="$PROJECT_DIR$/temporal_components.py" />
-        <option value="$PROJECT_DIR$/spatial_components.py" />
-        <option value="$PROJECT_DIR$/Larse_regression_noise.py" />
-        <option value="$PROJECT_DIR$/greedy_initialisation1.py" />
         <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
@@ -195,6 +124,9 @@
     <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -217,31 +149,24 @@
               <option name="myItemId" value="NMF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NMF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NMF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
     <property name="FullScreen" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -256,12 +181,12 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="NMF" />
+      <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -280,7 +205,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="NMF" />
+      <module name="" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -304,7 +229,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="NMF" />
+      <module name="" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -327,7 +252,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="NMF" />
+      <module name="" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -342,7 +267,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="NMF" />
+      <module name="" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -364,7 +289,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="NMF" />
+      <module name="" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -383,7 +308,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="NMF" />
+      <module name="" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -417,28 +342,57 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1922626" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18194444" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18111347" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5530121" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4302462" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39976552" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5534826" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18111347" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4302462" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39976552" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -458,28 +412,175 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Larse_regression_noise.py</url>
+          <line>114</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
       <default-breakpoints>
-        <breakpoint type="python-exception">
-          <properties notifyOnTerminate="true" exception="BaseException">
-            <option name="notifyOnTerminate" value="true" />
-          </properties>
+        <breakpoint suspend="NONE" type="python-exception">
+          <properties exception="BaseException" />
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="16" />
+      <option name="time" value="20" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1770">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spatial_components.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1425" max-vertical-offset="2265">
+          <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temporal_components.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="1245">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/junk.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="1620">
+          <caret line="102" column="69" selection-start-line="102" selection-start-column="69" selection-end-line="102" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greedy_initialisation1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="2055">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Larse_regression_noise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1605" max-vertical-offset="3375">
+          <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1815">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spatial_components.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1380" max-vertical-offset="2310">
+          <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temporal_components.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1275">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/junk.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="1620">
+          <caret line="102" column="69" selection-start-line="102" selection-start-column="69" selection-end-line="102" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greedy_initialisation1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="2085">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Larse_regression_noise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1440" max-vertical-offset="3420">
+          <caret line="96" column="20" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1815">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spatial_components.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1215" max-vertical-offset="2400">
+          <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temporal_components.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1275">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/junk.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="1620">
+          <caret line="102" column="69" selection-start-line="102" selection-start-column="69" selection-end-line="102" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greedy_initialisation1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="2085">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Larse_regression_noise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1110" max-vertical-offset="3240">
+          <caret line="82" column="22" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1584" max-vertical-offset="2070">
           <caret line="68" column="26" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#44#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -487,9 +588,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2310">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -497,9 +596,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2970">
           <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -507,9 +604,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="2340">
           <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#44#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -517,9 +612,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2355">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -549,29 +642,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
           <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spatial_components.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1215" max-vertical-offset="2400">
-          <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Larse_regression_noise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1110" max-vertical-offset="3240">
-          <caret line="82" column="22" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="1380" max-vertical-offset="2310">
+          <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -579,19 +658,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2085">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Larse_regression_noise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1485" max-vertical-offset="3450">
+          <caret line="114" column="0" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6580938" vertical-offset="915" max-vertical-offset="1815">
-          <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#44#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.33236152" vertical-offset="906" max-vertical-offset="1950">
+          <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
